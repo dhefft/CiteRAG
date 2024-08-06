@@ -42,3 +42,8 @@ Due to the large number of API requests, a timeout error may be thrown if a larg
 ## License
 
 [CC BY-NC-ND 4.0](https://github.com/dhefft/CiteRAG/blob/main/LICENSE.md)
+
+## Citation
+
+Please cite this work as:
+tbd
