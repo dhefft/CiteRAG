@@ -22,7 +22,7 @@ directory="<YOUR PATH GOES HERE>"
 
 (4) Set up your research questions:
 ```python
-query1="Question 1 (e.g. "Is this paper related to a specific topic?)""
+query1="Question 1 (e.g. 'Is this paper related to a specific topic?')"
 query2="Question 2"
 query3="Question 3"
 query4="Question 4"
